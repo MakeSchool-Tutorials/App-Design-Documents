@@ -3,9 +3,9 @@ title: "App Design Documents"
 slug: app-design-documents
 ---
 
-A _App Design Document_ (ADD) is meant to detail the objective, mechanics, level design, technical requirements, and development milestones for your app. It is a _living document_. You should be consistently updating your design document throughout development. If you are not updating your design document at least twice a week, then you are falling behind!
+An _App Design Document_ (ADD) is meant to detail the objective, mechanics, level design, technical requirements, and development milestones for your app. It is a _living document_. You should be consistently updating your design document throughout development. If you are not updating your design document at least twice a week, then you are falling behind!
 
-Having a completed design document makes it much easier to visualize your progress throughout development and keep track of what you have accomplished. It will help you make the correct decisions if you need to cut features because you are behind schedule or add features because you are ahead of schedule. Whenever you decide to change some aspect of your app's design or development schedule, make sure to update your design document!
+Having a completed design document makes it much easier to visualize your progress throughout development and keep track of what you have accomplished. It will help you make the correct decisions if you need to cut features because you are behind schedule, or add features because you are ahead of schedule. Whenever you decide to change some aspect of your app's design or development schedule, make sure to update your design document!
 
 # Your first App Design Document
 
