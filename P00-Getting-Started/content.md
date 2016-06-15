@@ -23,6 +23,8 @@ Try and choose a app similar to the one you want to make yourself! If you want t
 > Log into [GitHub](http://github.com) and create a new repository titled after the demo app. You can use your completed app repository if you have been using git/SourceTree/GitHub already!
 >
 > When viewing the new repository, there will be a link in the top bar that says "Wiki". Click on that and create a new page titled "App Design Document"
+> 
+> We're going to be editing our App Design Document in Markdown format, which is a very simple format that looks good both in plain-text and rendered. You can read more about Markdown formatting [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 >
 > Copy and paste this into the new page:
 >
@@ -127,6 +129,14 @@ This is where you explain what kind of people your app is targeting. What age ra
 ## Experience
 
 Start by describing, almost like you are telling a story, how a typical user will interact with your app. Why will they choose to open it, what will they do when it is open, what is the benefit or outcome of using it, and what should they feel when using it?
+
+You can write these user stories following this format:
+> As a `<type of user>`, I want `<some goal>` so that `<some reason>`.
+
+Here's some examples from Snapchat:
+> As a normal user, I want to be able to post photos to my story, so my friends can see them.
+
+> As a power user, when I wake up in the morning I want to be able to send a selfie in which I make a pouty face, to all 75 of my friends, so I can increase my score.
 
 Next list apps you think have a similar look and feel to what you want for your app. Refer back to them for inspiration on how to make interacting with your app consistent and rewarding.
 
