@@ -18,7 +18,7 @@ To get started, we will be writing a App Design Document for one of the tutorial
 1. Notes
 1. Makestagram
 >
-Try and choose a app similar to the one you want to make yourself! If you want to make a utility app, choose Tip Calculator. If you want to make offline app that stores data, choose Notes. If your app will leverage Firebase or other APIs, choose Makestagram.
+Try and choose a app similar to the one you want to make yourself! If you want to make a utility app, choose Tip Calculator. If you want to make an offline app that stores data, choose Notes. If your app will leverage Firebase or other APIs, choose Makestagram.
 >
 > Log into [GitHub](http://github.com) and create a new repository titled after the demo app. You can use your completed app repository if you have been using git/SourceTree/GitHub already!
 >
