@@ -90,7 +90,7 @@ Try and choose a app similar to the one you want to make yourself! If you want t
 [The overall milestones of first usable build, core features, and polish are just suggestions, plan to finish earlier if possible. The last 20% of work tends to take about as much time as the first 80% so do not slack off on your milestones!]
 >
 #### Week 1
-_planing your app_
+_planning your app_
 * [goals for the week]
 >
 #### Week 2
