@@ -74,7 +74,7 @@ Now that you have some practice, let's write a App Design Document for your own 
 [The overall milestones of first usable build, core features, and polish are just suggestions, plan to finish earlier if possible. The last 20% of work tends to take about as much time as the first 80% so do not slack off on your milestones!]
 >
 #### Week 1
-_planing your app_
+_planning your app_
 * [goals for the week]
 >
 #### Week 2
