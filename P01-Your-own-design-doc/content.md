@@ -64,7 +64,7 @@ Now that you have some practice, let's write a App Design Document for your own 
   * [list any other classes you will need]
 >
 #### Data models
-* [list all Parse data models your app will need]
+* [list all Firebase data models your app will need]
 >
 [Back to top ^](#)
 >
@@ -134,7 +134,7 @@ List all Views, View Controllers, and other Swift classes you will need to make 
 
 ## Data models
 
-List all Parse data models your app will require.
+List all Firebase data models your app will require.
 
 # Minimum Viable Product Milestones
 
