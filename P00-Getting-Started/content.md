@@ -9,11 +9,10 @@ Having a completed design document makes it much easier to visualize your progre
 
 # Your first design document
 
-To get started, we will be writing a Design Document for Makestagram, one of the tutorial apps!
+We will be writing a Design Document for our hackathon projects and personal projects to keep our development on track
 
 > [action]
-> Choose one of the tutorial apps you have completed -- as a reminder, they are:
-> Log into [GitHub](http://github.com) and create a new repository titled after the demo app. You can use your completed app repository if you have been using git/SourceTree/GitHub already!
+> Log into [GitHub](http://github.com) and create a new repository titled after the app you are writing a design document for. You can use your completed app repository if you have been using git/SourceTree/GitHub already!
 >
 > When viewing the new repository, there will be a link in the top bar that says "Wiki". Click on that and create a new page titled "Design Document"
 >
